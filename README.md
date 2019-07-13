@@ -1,3 +1,8 @@
+# FLIR Notes
+FLIR usecase is supported under branch pytorch-1.0. 
+
+Check "FLIR Notes" section in the README file in that branch to get started.
+
 ### Repo Progress
 ~~Upload initial commits~~ (1/30/2019)
 
